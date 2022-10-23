@@ -95,7 +95,7 @@ export const activities = [
     date: new Date('2022/12/17'),
     location: `Keulen`,
     time: '10:00',
-    toegankelijkheid: 'Gesloten',
+    toegankelijkheid: 'Open',
     link: 'https://www.facebook.com/events/1121800288429242'
   },
 ]

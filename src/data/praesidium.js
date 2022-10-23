@@ -38,8 +38,8 @@ export const praesidium = [
   {
     functie: 'Quaestor',
     foto: 'https://imgur.com/zCBJZX0',
-    naam: 'Kiran "Brakke Jongen" Triffin',
-    studie: 'Bedrijfsmanagement',
+    naam: 'Kiran "Brakke Jongen" Trifin',
+    studie: 'Accountancy-Fiscaliteit',
     doopjaar: '2021-22',
     peter: 'Duivenmelker',
     meter: 'Luna',

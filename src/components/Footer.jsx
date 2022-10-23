@@ -1,17 +1,17 @@
 import React from 'react';
 import { FaTiktok, FaInstagram, FaFacebookF } from 'react-icons/fa';
 import { AiOutlineMail } from 'react-icons/ai';
-import logo from '../photos/Schild-768x916.png';
 
 const Footer = () => {
   return (
     <footer className="bg-green text-white dark:bg-gray-900">
       <div className="p-4 mx-auto max-w-lg">
         <div className="flex mx-auto px-4">
-            <a className="footer-link h-min rounded-b-[2.8rem] my-auto" href='/mercurius-aalst'>
-                <img src={logo} className="h-28" alt="Flowbite Logo" />
+            <a className="footer-link h-min rounded-b-[2.8rem] my-auto" href='/'>
+                <img src="https://imgur.com/bLzPRGh.png" className="h-28" alt="Mercurius Logo" />
             </a>
-            <ul className="items-center ml-auto space-y-5 my-auto">
+            {/*  */}
+            <ul className="items-center ml-auto space-y-5 my-auto sm:space-y-0 sm:grid sm:grid-cols-2 sm:gap-5 sm:ml-10">
               <a title='Facebook' href="https://www.facebook.com/groups/172470292809076/" target="_blank" rel="noreferrer" className='footer-link'>
                 <FaFacebookF size={30} />
                 <div className='my-auto ml-5'>Facebook</div>
