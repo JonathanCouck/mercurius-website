@@ -12,7 +12,7 @@ const Footer = () => {
             </a>
             {/*  */}
             <ul className="items-center ml-auto space-y-5 my-auto sm:space-y-0 sm:grid sm:grid-cols-2 sm:gap-5 sm:ml-10">
-              <a title='Facebook' href="https://www.facebook.com/groups/172470292809076/" target="_blank" rel="noreferrer" className='footer-link'>
+              <a title='Facebook' href="https://www.facebook.com/MercuriusAalst" target="_blank" rel="noreferrer" className='footer-link'>
                 <FaFacebookF size={30} />
                 <div className='my-auto ml-5'>Facebook</div>
               </a>

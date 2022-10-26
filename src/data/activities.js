@@ -45,7 +45,7 @@ export const activities = [
     link: 'https://www.facebook.com/events/639866144237633'
   },
   {
-    foto: '',
+    foto: 'https://imgur.com/undefined',
     title: 'Nadoop',
     date: new Date('2022/10/29'),
     location: 'HOGENT stadscampus Aalst',
