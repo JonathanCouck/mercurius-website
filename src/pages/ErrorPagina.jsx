@@ -7,7 +7,7 @@ const ErrorPagina = () => {
   }, [])
 
   return (
-    <div className='my-10 mx-5'>
+    <div className='my-10 mx-5 h-[500px]'>
       <div className='mx-auto mb-5'>
         <span className='text-green font-semibold text-nietGevonden md:text-404'>404</span>
         <p className='text-title md:text-nietGevonden'>Deze pagina is niet gevonden</p>

@@ -39,7 +39,7 @@ export const activities = [
     foto: 'https://imgur.com/KSVgyuW',
     title: 'Pizza & Onesie Clubavond',
     date: new Date('2022/10/22'),
-    location: `'t Kraaiken`,
+    location: `Café 't Kraaiken`,
     time: '20:00',
     toegankelijkheid: 'Open',
     link: 'https://www.facebook.com/events/639866144237633'
@@ -48,7 +48,7 @@ export const activities = [
     foto: 'https://imgur.com/DNh2CyL',
     title: 'Nadoop',
     date: new Date('2022/10/29'),
-    location: `'t Kraaiken`,
+    location: `Café 't Kraaiken`,
     time: '20:00',
     toegankelijkheid: 'Open',
     link: 'https://www.facebook.com/events/1135283497400471'
@@ -67,7 +67,7 @@ export const activities = [
     title: 'Brouwerijbezoek',
     date: new Date('2022/11/19'),
     location: 'Duvel Moortgat',
-    time: '11:00 - 13:00',
+    time: '11:00',
     toegankelijkheid: 'Open',
     link: 'https://www.facebook.com/events/655746512581411'
   },
