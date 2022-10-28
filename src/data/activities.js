@@ -45,10 +45,10 @@ export const activities = [
     link: 'https://www.facebook.com/events/639866144237633'
   },
   {
-    foto: 'https://imgur.com/undefined',
+    foto: 'https://imgur.com/DNh2CyL',
     title: 'Nadoop',
     date: new Date('2022/10/29'),
-    location: 'HOGENT stadscampus Aalst',
+    location: `'t Kraaiken`,
     time: '20:00',
     toegankelijkheid: 'Open',
     link: 'https://www.facebook.com/events/1135283497400471'
@@ -63,7 +63,7 @@ export const activities = [
     link: 'https://www.facebook.com/events/823840545647152'
   },
   {
-    foto: '',
+    foto: 'https://imgur.com/ChJ9I8X',
     title: 'Brouwerijbezoek',
     date: new Date('2022/11/19'),
     location: 'Duvel Moortgat',
@@ -72,7 +72,7 @@ export const activities = [
     link: 'https://www.facebook.com/events/655746512581411'
   },
   {
-    foto: '',
+    foto: 'https://imgur.com/W7cnuwZ',
     title: 'Mercurius On Ice',
     date: new Date('2022/11/26'),
     location: 'Schaatsbaan Liedekerke',
