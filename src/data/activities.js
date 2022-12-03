@@ -81,21 +81,129 @@ export const activities = [
     link: 'https://www.facebook.com/events/1548848898871674'
   },
   {
+    foto: 'https://imgur.com/ZbfTm0F',
+    title: 'Cadeautjes Clubavond',
+    date: new Date('2022/12/03'),
+    location: `'t Kraaiken`,
+    time: '20:00',
+    toegankelijkheid: 'Gesloten',
+    link: 'https://www.facebook.com/events/477295174237467'
+  },
+  {
     foto: '',
     title: 'Glühwein cantus',
     date: new Date('2022/12/10'),
-    location: `Café 't Kraaiken`,
+    location: `Onthaalcomplex Keizershallen`,
     time: '20:00',
-    toegankelijkheid: 'Gesloten',
+    toegankelijkheid: 'Open',
     link: 'https://www.facebook.com/events/5418875858168291'
   },
   {
     foto: '',
     title: 'Kerstmarkt Duitsland',
     date: new Date('2022/12/17'),
-    location: `Keulen`,
-    time: '10:00',
+    location: `Frans Blackaertdreef`,
+    time: '06:30',
     toegankelijkheid: 'Open',
     link: 'https://www.facebook.com/events/1121800288429242'
+  },
+  {
+    foto: '',
+    title: 'Nieuwjaarsreceptie',
+    date: new Date('2022/02/03'),
+    location: `TBA`,
+    time: 'TBA',
+    toegankelijkheid: 'Gesloten',
+    link: 'https://www.facebook.com/events/489327623140200'
+  },
+  {
+    foto: '',
+    title: 'Pirates Clubavond',
+    date: new Date('2022/02/18'),
+    location: `TBA`,
+    time: '19:00',
+    toegankelijkheid: 'Open',
+    link: 'https://www.facebook.com/events/449308604024024'
+  },
+  {
+    foto: '',
+    title: 'Biermeester',
+    date: new Date('2022/03/03'),
+    location: `TBA`,
+    time: '20:00',
+    toegankelijkheid: 'Open',
+    link: 'https://www.facebook.com/events/1323297791800056'
+  },
+  {
+    foto: '',
+    title: 'Krambambouli Cantus',
+    date: new Date('2022/03/10'),
+    location: `TBA`,
+    time: 'TBA',
+    toegankelijkheid: 'Open',
+    link: 'https://www.facebook.com/events/471571841740446'
+  },
+  {
+    foto: '',
+    title: 'LAN-Party',
+    date: new Date('2022/03/24'),
+    location: `HOGENT Campus Aalst`,
+    time: 'TBA',
+    toegankelijkheid: 'open',
+    link: 'https://www.facebook.com/events/6072428239455185'
+  },
+  {
+    foto: '',
+    title: 'Clubweekend',
+    date: new Date('2022/04/07'),
+    location: `TBA`,
+    time: 'TBA',
+    toegankelijkheid: 'gesloten',
+    link: 'https://www.facebook.com/events/807122720402977'
+  },
+  {
+    foto: '',
+    title: 'Karaoke & Cocktail Clubavond',
+    date: new Date('2022/04/21'),
+    location: `TBA`,
+    time: 'TBA',
+    toegankelijkheid: 'open',
+    link: 'https://www.facebook.com/events/467361968598198'
+  },
+  {
+    foto: '',
+    title: 'Vriendjes Cantus',
+    date: new Date('2022/04/29'),
+    location: `TBA`,
+    time: '20:00',
+    toegankelijkheid: 'open',
+    link: 'https://www.facebook.com/events/889324228771764'
+  },
+  {
+    foto: '',
+    title: 'Reis Rond de Wereld Cantus',
+    date: new Date('2022/05/05'),
+    location: `TBA`,
+    time: 'TBA',
+    toegankelijkheid: 'open',
+    link: 'https://www.facebook.com/events/650839399816914'
+  },
+  {
+    foto: '',
+    title: 'Praesesverkiezing',
+    date: new Date('2022/05/06'),
+    location: ``,
+    time: ':',
+    toegankelijkheid: '',
+    link: 'https://www.facebook.com/events/'
+  },
+  {
+    foto: '',
+    title: 'Gala der Gouden Kastanjes',
+    date: new Date('2022/07/01'),
+    location: ``,
+    time: ':',
+    toegankelijkheid: '',
+    link: 'https://www.facebook.com/events/'
   },
 ]
