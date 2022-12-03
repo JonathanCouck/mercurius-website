@@ -110,7 +110,7 @@ export const activities = [
   {
     foto: '',
     title: 'Nieuwjaarsreceptie',
-    date: new Date('2022/02/03'),
+    date: new Date('2023/02/03'),
     location: `TBA`,
     time: 'TBA',
     toegankelijkheid: 'Gesloten',
@@ -119,7 +119,7 @@ export const activities = [
   {
     foto: '',
     title: 'Pirates Clubavond',
-    date: new Date('2022/02/18'),
+    date: new Date('2023/02/18'),
     location: `TBA`,
     time: '19:00',
     toegankelijkheid: 'Open',
@@ -128,7 +128,7 @@ export const activities = [
   {
     foto: '',
     title: 'Biermeester',
-    date: new Date('2022/03/03'),
+    date: new Date('2023/03/03'),
     location: `TBA`,
     time: '20:00',
     toegankelijkheid: 'Open',
@@ -137,7 +137,7 @@ export const activities = [
   {
     foto: '',
     title: 'Krambambouli Cantus',
-    date: new Date('2022/03/10'),
+    date: new Date('2023/03/10'),
     location: `TBA`,
     time: 'TBA',
     toegankelijkheid: 'Open',
@@ -146,7 +146,7 @@ export const activities = [
   {
     foto: '',
     title: 'LAN-Party',
-    date: new Date('2022/03/24'),
+    date: new Date('2023/03/24'),
     location: `HOGENT Campus Aalst`,
     time: 'TBA',
     toegankelijkheid: 'open',
@@ -155,7 +155,7 @@ export const activities = [
   {
     foto: '',
     title: 'Clubweekend',
-    date: new Date('2022/04/07'),
+    date: new Date('2023/04/07'),
     location: `TBA`,
     time: 'TBA',
     toegankelijkheid: 'gesloten',
@@ -164,7 +164,7 @@ export const activities = [
   {
     foto: '',
     title: 'Karaoke & Cocktail Clubavond',
-    date: new Date('2022/04/21'),
+    date: new Date('2023/04/21'),
     location: `TBA`,
     time: 'TBA',
     toegankelijkheid: 'open',
@@ -173,7 +173,7 @@ export const activities = [
   {
     foto: '',
     title: 'Vriendjes Cantus',
-    date: new Date('2022/04/29'),
+    date: new Date('2023/04/29'),
     location: `TBA`,
     time: '20:00',
     toegankelijkheid: 'open',
@@ -182,7 +182,7 @@ export const activities = [
   {
     foto: '',
     title: 'Reis Rond de Wereld Cantus',
-    date: new Date('2022/05/05'),
+    date: new Date('2023/05/05'),
     location: `TBA`,
     time: 'TBA',
     toegankelijkheid: 'open',
@@ -191,7 +191,7 @@ export const activities = [
   {
     foto: '',
     title: 'Praesesverkiezing',
-    date: new Date('2022/05/06'),
+    date: new Date('2023/05/06'),
     location: ``,
     time: ':',
     toegankelijkheid: '',
@@ -200,7 +200,7 @@ export const activities = [
   {
     foto: '',
     title: 'Gala der Gouden Kastanjes',
-    date: new Date('2022/07/01'),
+    date: new Date('2023/07/01'),
     location: ``,
     time: ':',
     toegankelijkheid: '',
